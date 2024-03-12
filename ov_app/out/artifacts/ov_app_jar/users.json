@@ -1,0 +1,37 @@
+[ {
+  "username" : "unsigned user",
+  "password" : "",
+  "history" : [ ],
+  "favorites" : [ ]
+}, {
+  "username" : "Kees",
+  "password" : "1234",
+  "history" : [ ],
+  "favorites" : [ ]
+}, {
+  "username" : "Rens",
+  "password" : "1234",
+  "history" : [ ],
+  "favorites" : [ ]
+}, {
+  "username" : "Gerco",
+  "password" : "1234",
+  "history" : [ ],
+  "favorites" : [ ]
+}, {
+  "username" : "Atilla",
+  "password" : "1234",
+  "history" : [ ],
+  "favorites" : [ ]
+}, {
+  "username" : "Jeroen",
+  "password" : "1234",
+  "history" : [ {
+    "departureLocation" : "'s-Hertogenbosch",
+    "destination" : "Maaskantje"
+  } ],
+  "favorites" : [ {
+    "departureLocation" : "'s-Hertogenbosch",
+    "destination" : "Maaskantje"
+  } ]
+} ]
